@@ -9,7 +9,8 @@ Our data augmentation methods are from RAD(https://github.com/pokaxpoka/rad_proc
 Required Libraries
 
 - tensorflow-gpu=1.15.0
-- https://github.com/openai/baselines/archive/9ee399f5b20cd70ac0a871927a
+- gym
+- gym3
 - matplotlib
 - pytorch
 - kornia
